@@ -1,0 +1,9 @@
+# https://pdfboss.net/robots.txt
+
+User-agent: *
+Allow: /
+
+Disallow: /privacy.html
+Disallow: /terms.html
+
+Sitemap: https://pdfboss.net/sitemap.xml
