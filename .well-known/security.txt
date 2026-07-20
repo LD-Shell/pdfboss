@@ -2,8 +2,8 @@
 # We take the privacy and security of our 100% client-side tools seriously.
 # If you discover a vulnerability in our JavaScript processing or UI, please report it.
 
-Contact: mailto:security@pdfboss.net
+Contact: mailto:security@pdfboss.app
 Preferred-Languages: en
-Canonical: https://pdfboss.net/.well-known/security.txt
-Policy: https://pdfboss.net/privacy.html
+Canonical: https://pdfboss.app/.well-known/security.txt
+Policy: https://pdfboss.app/privacy.html
 Expires: 2027-03-06T00:00:00.000Z
