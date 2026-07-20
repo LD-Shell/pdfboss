@@ -4,7 +4,7 @@ A comprehensive, privacy-first, browser-based PDF utility suite.
 
 PDFBoss provides over 15 PDF manipulation tools designed to convert, edit, and manage documents entirely client-side. It ensures strict data privacy—files are processed on the device and never uploaded to external servers by leveraging WebAssembly and local browser capabilities.
 
-**Live Site:** [pdfboss.net](https://pdfboss.net)
+**Live Site:** [pdfboss.app](https://pdfboss.app)
 
 ## Tech Stack & Architecture
 
