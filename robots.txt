@@ -1,4 +1,4 @@
-# https://pdfboss.net/robots.txt
+# https://pdfboss.app/robots.txt
 
 User-agent: *
 Allow: /
@@ -6,4 +6,4 @@ Allow: /
 Disallow: /privacy.html
 Disallow: /terms.html
 
-Sitemap: https://pdfboss.net/sitemap.xml
+Sitemap: https://pdfboss.app/sitemap.xml
