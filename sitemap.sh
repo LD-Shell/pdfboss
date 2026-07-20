@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- 1. Environment setup ---
-base_url="https://pdfboss.net"
+base_url="https://pdfboss.app"
 output_file="sitemap.xml"
 
 echo '<?xml version="1.0" encoding="UTF-8"?>' > "$output_file"
